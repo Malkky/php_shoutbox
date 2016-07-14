@@ -39,14 +39,8 @@ CREATE TABLE `shoutit` (
 
 INSERT INTO `shoutit` (`id`, `name`, `message`, `time`) VALUES
 (1, 'Brad', 'um dolor sit amet, consectetur adipiscing elit. In ullamcorper, magna ut elementum mattis, est lectus mollis neque, id faucibus nisi mi ac n', '10:30:32'),
-(2, 'Tom', 'um dolor sit amet, consectetur adipiscing elit. In ullamcorper, magna ut elementum mattis, est lectus mollis neque, id faucibus nisi mi ac n', '10:33:13'),
-(22, 'Gjella', 'hey guys', '07:57:39'),
-(23, 'arjet', 'kraja', '08:35:03'),
-(24, 'gjella', 'otr', '08:36:37'),
-(25, 'Tom', 'ferter', '08:37:26'),
-(26, 'Gjella', 'voge', '08:38:51'),
-(27, 'Gjella', 'Vogel', '08:39:58'),
-(28, 'Gwtf', 'asasdas', '08:40:18');
+(2, 'Tom', 'um dolor sit amet, consectetur adipiscing elit. In ullamcorper, magna ut elementum mattis, est lectus mollis neque, id faucibus nisi mi ac n', '10:33:13')
+
 
 --
 -- Indexes for dumped tables
